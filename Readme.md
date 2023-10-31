@@ -15,10 +15,9 @@
   <a href="https://www.linkedin.com/in/iolardemartini" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@Demartini" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+  <a href="https://www.tradingview.com/"><img src="https://img.shields.io/badge/Tradingview-kytpastor-black?style=for-the-badge" alt="Tradingview - kytpastor"></a>
   </a>
-</p>
+
 
 
 
