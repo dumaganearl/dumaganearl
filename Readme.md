@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+<!--  <img src="https://github.com/demartini/demartini/blob/master/code.gif"> -->
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   </a>
  <!-- <a href="https://www.tradingview.com/"><img src="https://img.shields.io/badge/Tradingview-kytpastor-black?style=for-the-badge" alt="Tradingview - kytpastor"></a> -->
   <a href="https://www.tradingview.com/kayatapastor" target="_blank">
-    <img src="https://img.shields.io/badge/Tradingview-4c4552.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="Tradingview"/>
+    <img src="https://img.shields.io/badge/Tradingview-4c4552.svg?&style=for-the-badge&logo=terraform&logoColor=white&color=071A2C" alt="Tradingview"/>
   </a>
   </a>
 
