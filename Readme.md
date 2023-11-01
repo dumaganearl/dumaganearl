@@ -28,9 +28,9 @@
 ## AREA OF EXPERTISE 
 
 ```text                                      
-Network Administration   ████████████████            60.0%
-Software Programming     ████████                    25.0%
-Multimedia Software      █████                       15.0%
+                                    Network Administration   ████████████████            60.0%
+                                    Software Programming     ████████                    25.0%
+                                    Multimedia Software      █████                       15.0%
 ```
 
 ## TECHNOLOGIES | DEV TOOLS
