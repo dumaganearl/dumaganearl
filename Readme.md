@@ -11,8 +11,8 @@
    <a href="https://instagram.com/dumaganearl" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://twitter.com/dumaganearl" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  <!-- <a href="https://twitter.com/dumaganearl" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/> -->
   </a>
   <a href="https://www.linkedin.com/in/iolardemartini" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
@@ -24,6 +24,47 @@
     <img src="https://img.shields.io/badge/Tradingview-4c4552.svg?&style=for-the-badge&logo=terraform&logoColor=white&color=071A2C" alt="Tradingview"/>
   </a>
   </a>
+
+## 
+
+<details>
+<summary> <h6> More About Me <h6/> </summary>
+<br />
+
+```python
+ class More About Me:
+ 	user = 'Earl Angelo | INFJ'
+		current_work = 'Network Administrator'
+		passion = [
+				'Into Finance Books/E-Books',
+				'Crypto/Forex Currency Trading [Supplementary Income]',
+				'Crypto Asset Investment Trading [Long Term Income]',
+				'Crypto Ai/Bot Trading [Passive Income]',  
+			]
+
+    hobbies = [
+				'Isekai Manga/Manhwa',
+				'Legends/Myths/Conspiracy Theories',
+				'Medley Genre Musics',
+				'FPS/RPG Gameplay [Once in a Blue Moon]',  
+			]
+
+	def currentlyInto():
+		LearningRiskMgmt()
+		LearningTradingPsych()
+		ResearchingMBTI()
+
+	def getCity():
+		return Davao_City()
+
+
+                                                                         #Fave Motto
+                                                                    "Bawi, Next Life"
+                                                                                  -M
+	
+ ```
+
+</details>
 
 ## AREA OF EXPERTISE 
 
