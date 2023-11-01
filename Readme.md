@@ -33,7 +33,7 @@ Software Programming     ████████                    25.0%
 Multimedia Software      █████                       15.0%
 ```
 
-## TECHNOLOGIES & DEV TOOLS
+## TECHNOLOGIES | DEV TOOLS
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
