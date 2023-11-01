@@ -14,8 +14,10 @@
   </a>
   <a href="https://www.linkedin.com/in/iolardemartini" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+     </a>
+  <a href="https://www.gmail.com/dumaganearll" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
   </a>
- <!-- <a href="https://www.tradingview.com/"><img src="https://img.shields.io/badge/Tradingview-kytpastor-black?style=for-the-badge" alt="Tradingview - kytpastor"></a> -->
   <a href="https://www.tradingview.com/kayatapastor" target="_blank">
     <img src="https://img.shields.io/badge/Tradingview-4c4552.svg?&style=for-the-badge&logo=terraform&logoColor=white&color=071A2C" alt="Tradingview"/>
   </a>
