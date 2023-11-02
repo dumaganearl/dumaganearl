@@ -32,35 +32,35 @@
 <br />
 
 ```python
- class More About Me:
- 	user = 'Earl Angelo | INFJ'
-		current_work = 'Network Administrator'
-		passion = [
-				'Into Finance Books/E-Books',
-				'Crypto/Forex Currency Trading [Supplementary Income]',
-				'Crypto Asset Investment Trading [Long Term Income]',
-				'Crypto Ai/Bot Trading [Passive Income]',  
-			]
+ class MoreAboutMe:
+    user = 'Earl Angelo | INFJ'
+    current_work = 'IT Technical Support'
+    passion = [
+        'Into Finance Books/E-Books',
+        'Crypto/Forex Currency Trading [Supplementary Income]',
+        'Crypto Asset Investment Trading [Long Term Income]',
+        'Crypto Ai/Bot Trading [Passive Income]',  
+    ]
 
     hobbies = [
-				'Isekai Manga/Manhwa',
-				'Legends/Myths/Conspiracy Theories',
-				'Medley Genre Musics',
-				'FPS/RPG Gameplay [Once in a Blue Moon]',  
-			]
+        'Isekai Manga/Manhwa',
+        'Legends/Myths/Conspiracy Theories',
+        'Medley Musics Genre',
+        'FPS/RPG Gameplay [Once in a Blue Moon]',  
+    ]
 
-	def currentlyInto():
-		LearningRiskMgmt()
-		LearningTradingPsych()
-		ResearchingMBTI()
+    def currentlyInto(self):
+        self.LearningRiskMgmt()
+        self.LearningTradingPsych()
+        self.ResearchingMBTI()
 
-	def getCity():
-		return Davao_City()
+    def getCity(self):
+        return self.Davao_City()
 
 
-                                                                         #Fave Motto
-                                                                    "Bawi, Next Life"
-                                                                                  -M
+#                    						    Fave Motto
+#                                                                   "Bawi, Next Life"
+#                                                                   -M
 	
  ```
 
