@@ -104,5 +104,10 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
 </div>
 
-## TRADING XX
+## TRADING STRATEGIES BEING USED
 
+```                                      
+                                       Smart Money Concept  ████████████████            60.0%
+                                   Harmonics (In Progress)  ████████                    25.0%
+                          Elliot Wave Theory (In Progress)  █████                       15.0%
+```
