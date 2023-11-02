@@ -40,7 +40,6 @@
 
 ## 
 
-<div align="center">
 <details>
 <summary> <h6> More About Me <h6/> </summary>
 </br>
@@ -72,14 +71,13 @@
         return self.Davao_City()
 
 
-#                    						    Fave Motto
-#                                                                   "Bawi, Next Life"
-#                                                                   -M
+# Fave Motto
+# "Bawi, Next Life"
+# -M
 	
  ```
 
 </details>
-</div>
 </br>
 
 ## Area of Expertise
