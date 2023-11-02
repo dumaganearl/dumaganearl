@@ -71,7 +71,7 @@
 
 </details>
 
-## AREA OF EXPERTISE 
+## Area of Expertise
 
 ```text                                      
                                     Network Administration  ▮▮▮▮▮▮▯▯▯▯  60%
@@ -79,7 +79,7 @@
                                     Multimedia Software     ▮▮▯▯▯▯▯▯▯▯  20%
 ```
 
-## TECHNOLOGIES | DEV TOOLS
+## Technologies | Dev Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
@@ -109,7 +109,7 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
 </div>
 
-## TRADING STRATEGIES BEING USED
+## Trading Strategies Being Used
 
 ```                                      
                                        Smart Money Concept  ▮▮▮▮▯▯▯▯▯▯  40%
@@ -117,4 +117,4 @@
                           Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 ```
 
-## HERE'S AN IDEA OF WHAT I DO
+## Here's an Idea of What I Do
