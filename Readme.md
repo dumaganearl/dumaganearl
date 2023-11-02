@@ -40,8 +40,10 @@
 
 ## 
 
+<div align="center">
 <details>
 <summary> <h6> More About Me <h6/> </summary>
+</div>
 </br>
 
 ```python
@@ -138,4 +140,4 @@ Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 </div>
 </br>
 
-## Here's an Idea of What I Do
+## Here's an Idea of What Mostly I Do
