@@ -69,9 +69,9 @@
 ## AREA OF EXPERTISE 
 
 ```text                                      
-                                    Network Administration   ████████████████            60.0%
-                                    Software Programming     ████████                    25.0%
-                                    Multimedia Software      █████                       15.0%
+                                    Network Administration  ▮▮▮▮▮▮▯▯▯▯  60%
+                                    Software Programming    ▮▮▮▯▯▯▯▯▯▯  30%
+                                    Multimedia Software     ▮▮▯▯▯▯▯▯▯▯  20%
 ```
 
 ## TECHNOLOGIES | DEV TOOLS
@@ -107,7 +107,7 @@
 ## TRADING STRATEGIES BEING USED
 
 ```                                      
-                                       Smart Money Concept  ████████████████            60.0%
-                                   Harmonics (In Progress)  ████████                    25.0%
-                          Elliot Wave Theory (In Progress)  █████                       15.0%
+                                       Smart Money Concept  ▮▮▮▮▯▯▯▯▯▯  40%
+                                   Harmonics (In Progress)  ▮▮▮▮▯▯▯▯▯▯  40%
+                          Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 ```
