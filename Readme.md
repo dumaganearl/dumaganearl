@@ -1,5 +1,10 @@
 <p align="center">
 <!--  <img src="https://github.com/demartini/demartini/blob/master/code.gif"> -->
+<!--	
+# Hi, I'm Earl!
+# IT Support by Day
+# Intraday Trader at Night
+-->
 </p>
 
 ##
@@ -34,7 +39,7 @@
 ```python
  class MoreAboutMe:
     user = 'Earl Angelo | INFJ'
-    current_work = 'IT Technical Support'
+    current_work = 'IT Technical Support II'
     passion = [
         'Into Finance Books/E-Books',
         'Crypto/Forex Currency Trading [Supplementary Income]',
@@ -111,3 +116,5 @@
                                    Harmonics (In Progress)  ▮▮▮▮▯▯▯▯▯▯  40%
                           Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 ```
+
+## HERE'S AN IDEA OF WHAT I DO
