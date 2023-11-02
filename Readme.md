@@ -130,8 +130,8 @@ Multimedia Software     ▮▮▯▯▯▯▯▯▯▯  20%
 <div align="center">
 
 ```                                      
-Smart Money Concept  ▮▮▮▮▯▯▯▯▯▯  40%
-Harmonics (In Progress)  ▮▮▮▮▯▯▯▯▯▯  40%
+Smart Money Concept               ▮▮▮▮▯▯▯▯▯▯  40%
+Harmonics (In Progress)           ▮▮▮▮▯▯▯▯▯▯  40%
 Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 ```
 
