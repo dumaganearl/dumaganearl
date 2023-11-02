@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
 <!--  <img src="https://github.com/demartini/demartini/blob/master/code.gif"> -->
 <!--	
@@ -6,9 +7,13 @@
 # Intraday Trader at Night
 -->
 </p>
+	
+</div>
+</br>
 
 ##
 
+<div align="center">
 <p align="center">
   <a href="https://www.facebook.com/llEarlzll" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
@@ -30,11 +35,15 @@
   </a>
   </a>
 
+</div>
+</br>
+
 ## 
 
+<div align="center">
 <details>
 <summary> <h6> More About Me <h6/> </summary>
-<br />
+</br>
 
 ```python
  class MoreAboutMe:
@@ -70,18 +79,25 @@
  ```
 
 </details>
+</div>
+</br>
 
 ## Area of Expertise
 
+<div align="center">
+
 ```text                                      
-                                    Network Administration  ▮▮▮▮▮▮▯▯▯▯  60%
-                                    Software Programming    ▮▮▮▯▯▯▯▯▯▯  30%
-                                    Multimedia Software     ▮▮▯▯▯▯▯▯▯▯  20%
+Network Administration  ▮▮▮▮▮▮▯▯▯▯  60%
+Software Programming    ▮▮▮▯▯▯▯▯▯▯  30%
+Multimedia Software     ▮▮▯▯▯▯▯▯▯▯  20%
 ```
+
+</div>
+</br>
 
 ## Technologies | Dev Tools
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
@@ -109,12 +125,19 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
 </div>
 
+</br>
+
 ## Trading Strategies Being Used
 
+<div align="center">
+
 ```                                      
-                                       Smart Money Concept  ▮▮▮▮▯▯▯▯▯▯  40%
-                                   Harmonics (In Progress)  ▮▮▮▮▯▯▯▯▯▯  40%
-                          Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
+Smart Money Concept  ▮▮▮▮▯▯▯▯▯▯  40%
+Harmonics (In Progress)  ▮▮▮▮▯▯▯▯▯▯  40%
+Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 ```
+
+</div>
+</br>
 
 ## Here's an Idea of What I Do
