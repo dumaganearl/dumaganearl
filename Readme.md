@@ -144,7 +144,7 @@ Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 
 <div align="center">
 
-
+	![Day](https://github.com/dumaganearl/dumaganearl/assets/149300528/236b4608-48d9-464f-b3cd-d50621147de0)
 
 </div>
 </br>
