@@ -83,7 +83,6 @@ Multimedia Software     ▮▮▯▯▯▯▯▯▯▯  20%
 ```
 
 </div>
-</br>
 
 ## <h3> Technologies | Dev Tools </h3>
 
@@ -128,7 +127,6 @@ Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 ```
 
 </div>
-</br>
 
 ## <h3> Here's an Idea of What Mostly I Do </h3> 
 
