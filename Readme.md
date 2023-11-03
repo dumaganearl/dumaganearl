@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/iolardemartini" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://imgur.com/a/m6fkKZm" target="_blank">
+  <a href="https://imgur.com/McIIFLM" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
   </a>
   <a href="https://imgur.com/a/m6fkKZm" target="_blank">
@@ -140,4 +140,4 @@ Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 </div>
 </br>
 
-## <h2> Here's an Idea of What Mostly I Do </h2>
+## <h3> Here's an Idea of What Mostly I Do </h3>
