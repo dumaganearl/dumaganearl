@@ -30,7 +30,7 @@
   <a href="https://imgur.com/McIIFLM" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
   </a>
-  <a href="https://imgur.com/a/m6fkKZm" target="_blank">
+  <a href="https://imgur.com/McIIFLM" target="_blank">
     <img src="https://img.shields.io/badge/Tradingview-4c4552.svg?&style=for-the-badge&logo=terraform&logoColor=white&color=071A2C" alt="Tradingview"/>
   </a>
   </a>
@@ -42,7 +42,7 @@
 
 <div align="center">
 <details>
-<summary> <h6> More About Me <h6/> </summary>
+<summary> <h5> More About Me <h5/> </summary>
 </div>
 </br>
 
@@ -82,7 +82,7 @@
 </details>
 </br>
 
-## Area of Expertise
+## <h3> Area of Expertise </h3>
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Multimedia Software     ▮▮▯▯▯▯▯▯▯▯  20%
 </div>
 </br>
 
-## Technologies | Dev Tools
+## <h3> Technologies | Dev Tools </h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
@@ -127,7 +127,7 @@ Multimedia Software     ▮▮▯▯▯▯▯▯▯▯  20%
 
 </br>
 
-## Trading Strategies Being Used
+## <h3> Trading Strategies Being Used </h3>
 
 <div align="center">
 
@@ -141,3 +141,10 @@ Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 </br>
 
 ## <h3> Here's an Idea of What Mostly I Do </h3>
+
+<div align="center">
+
+
+
+</div>
+</br>
