@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Animated Gif V2](https://github.com/dumaganearl/dumaganearl/assets/149300528/4398799e-156a-4553-aafe-6589cf23a510)
+![Animated Header Gif V3](https://github.com/dumaganearl/dumaganearl/assets/149300528/acd43258-613d-4e83-9f9d-2a56ca6e4110)
 
 </div>
 
