@@ -71,7 +71,6 @@
  ```
 
 </details>
-</br>
 
 ## <h3> Area of Expertise </h3>
 
