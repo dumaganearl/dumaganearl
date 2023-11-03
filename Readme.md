@@ -1,17 +1,8 @@
 <div align="center">
-<p align="center">
-<!--  <img src="https://github.com/demartini/demartini/blob/master/code.gif"> -->
-<!--	
-# Hi, I'm Earl!
-# IT Support by Day
-# Intraday Trader at Night
--->
-</p>
-	
-</div>
-</br>
 
-##
+![Header Animated Gif V2](https://github.com/dumaganearl/dumaganearl/assets/149300528/4398799e-156a-4553-aafe-6589cf23a510)
+
+</div>
 
 <div align="center">
 <p align="center">
