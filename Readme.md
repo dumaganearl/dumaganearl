@@ -42,7 +42,7 @@
 
 <div align="center">
 <details>
-<summary> <h5> More About Me <h5/> </summary>
+<summary> <h4> More About Me <h4/> </summary>
 </div>
 </br>
 
@@ -140,11 +140,24 @@ Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 </div>
 </br>
 
-## <h3> Here's an Idea of What Mostly I Do </h3>
+## <h3> Here's an Idea of What Mostly I Do </h3> 
 
-<div align="center">
+<div align="center"> 
 
-	![Day](https://github.com/dumaganearl/dumaganearl/assets/149300528/236b4608-48d9-464f-b3cd-d50621147de0)
+<h4> Day Time <h4/>
+	
+![Day](https://github.com/dumaganearl/dumaganearl/assets/149300528/d24f7527-fe06-4a23-9e5b-3ae373d38eef)
+
+</div>
+
+<div align="center"> 
+
+<h4> Night Time <h4/>
+
+![Night](https://github.com/dumaganearl/dumaganearl/assets/149300528/5265f62d-7468-4887-a430-4a035600daf9)
 
 </div>
 </br>
+
+
+
