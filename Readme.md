@@ -50,22 +50,22 @@
 
 </a>
   <a href="https://imgur.com/McIIFLM" target="_blank">
-    <img src="https://img.shields.io/badge/16personalities-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+    <img src="https://img.shields.io/badge/16personalities.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
   <a href="https://imgur.com/McIIFLM" target="_blank">
-    <img src="https://img.shields.io/badge/humanmetrics-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+    <img src="https://img.shields.io/badge/humanmetrics.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
   <a href="https://imgur.com/McIIFLM" target="_blank">
-    <img src="https://img.shields.io/badge/idrlabs-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+    <img src="https://img.shields.io/badge/idrlabs.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
     <a href="https://imgur.com/McIIFLM" target="_blank">
-    <img src="https://img.shields.io/badge/jupiter34appspot-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+    <img src="https://img.shields.io/badge/jupiter34appspot.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
   <a href="https://imgur.com/McIIFLM" target="_blank">
-    <img src="https://img.shields.io/badge/keys2cognition-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+    <img src="https://img.shields.io/badge/keys2cognition.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
   <a href="https://imgur.com/McIIFLM" target="_blank">
-    <img src="https://img.shields.io/badge/personalitymax-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+    <img src="https://img.shields.io/badge/personalitymax.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
   
 </div>
