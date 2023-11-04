@@ -38,9 +38,41 @@
 </div>
 </br>
 
+
 ```python
  class MoreAboutMe:
-    user = 'Earl Angelo | INFJ'
+    user = 'Earl Angelo'
+    personality_type = 'INFJ'
+
+# MBTI Multiple Sources of Reference Link Results are Shown Below.
+ ```
+<div align="center">
+
+</a>
+  <a href="https://imgur.com/McIIFLM" target="_blank">
+    <img src="https://img.shields.io/badge/16personalities-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+  </a>
+  <a href="https://imgur.com/McIIFLM" target="_blank">
+    <img src="https://img.shields.io/badge/humanmetrics-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+  </a>
+  <a href="https://imgur.com/McIIFLM" target="_blank">
+    <img src="https://img.shields.io/badge/idrlabs-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+  </a>
+    <a href="https://imgur.com/McIIFLM" target="_blank">
+    <img src="https://img.shields.io/badge/jupiter34appspot-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+  </a>
+  <a href="https://imgur.com/McIIFLM" target="_blank">
+    <img src="https://img.shields.io/badge/keys2cognition-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+  </a>
+  <a href="https://imgur.com/McIIFLM" target="_blank">
+    <img src="https://img.shields.io/badge/personalitymax-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+  </a>
+  
+</div>
+
+```python
+ class MoreAboutMe:
+    user = 'Earl Angelo'
     current_work = 'IT Technical Support II'
     passion = [
         'Into Finance Books/E-Books',
