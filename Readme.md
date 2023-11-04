@@ -40,7 +40,7 @@
 
 
 ```python
- class MoreAboutMe:
+class MoreAboutMe:
     user = 'Earl Angelo'
     personality_type = 'INFJ'
 
@@ -78,7 +78,7 @@
 </br>
 
 ```python
- class MoreAboutMe:
+class MoreAboutMe:
     user = 'Earl Angelo'
     current_work = 'IT Technical Support II'
     passion = [
