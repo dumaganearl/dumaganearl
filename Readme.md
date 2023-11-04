@@ -51,13 +51,13 @@
 
 </a>
   <a href="https://imgur.com/McIIFLM" target="_blank">
-    <img src="https://img.shields.io/badge/16personalities.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
-  </a>
-  <a href="https://imgur.com/McIIFLM" target="_blank">
-    <img src="https://img.shields.io/badge/humanmetrics.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
-  </a>
-  <a href="https://imgur.com/McIIFLM" target="_blank">
     <img src="https://img.shields.io/badge/idrlabs.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+  </a>
+  <a href="https://imgur.com/McIIFLM" target="_blank">
+    <img src="https://img.shields.io/badge/humanmetrics.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>	  
+  </a>
+  <a href="https://imgur.com/McIIFLM" target="_blank">
+    <img src="https://img.shields.io/badge/16personalities.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
     <a href="https://imgur.com/McIIFLM" target="_blank">
     <img src="https://img.shields.io/badge/jupiter34appspot.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
