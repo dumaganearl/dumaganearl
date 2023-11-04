@@ -47,6 +47,7 @@
 # MBTI Multiple Sources of Reference Link Results are Shown Below.
  ```
 <div align="center">
+<p align="center">
 
 </a>
   <a href="https://imgur.com/McIIFLM" target="_blank">
@@ -67,7 +68,8 @@
   <a href="https://imgur.com/McIIFLM" target="_blank">
     <img src="https://img.shields.io/badge/personalitymax.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
-  
+  </a>
+
 </div>
 
 ```python
