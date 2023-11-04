@@ -44,7 +44,7 @@
     user = 'Earl Angelo'
     personality_type = 'INFJ'
 
-# MBTI: Multiple Sources of Reference Link Results are Shown Below.
+# MBTI Results: Multiple sources of reference link are shown below.
  ```
 <div align="center">
 <p align="center">
@@ -71,6 +71,11 @@
   </a>
 
 </div>
+
+```python
+# Realtime RPm would be much better! :p 
+ ```
+</br>
 
 ```python
  class MoreAboutMe:
