@@ -44,8 +44,7 @@ class MoreAboutMe:
     user = 'Earl Angelo'
     personality_type = 'INFJ'
 
-# MBTI Results
-# Multiple sources of reference link are shown below.
+# MBTI Results: Multiple sources of reference link are shown below.
  ```
 <div align="center">
 <p align="center">
@@ -74,8 +73,7 @@ class MoreAboutMe:
 </div>
 
 ```python
-# Realtime RPm would be 100%
-# much better! :p 
+# Realtime RPm would be 100% much better! :p 
  ```
 </br>
 
