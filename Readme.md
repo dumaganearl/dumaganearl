@@ -44,28 +44,28 @@
     user = 'Earl Angelo'
     personality_type = 'INFJ'
 
-# MBTI Multiple Sources of Reference Link Results are Shown Below.
+# MBTI: Multiple Sources of Reference Link Results are Shown Below.
  ```
 <div align="center">
 <p align="center">
 
 </a>
-  <a href="https://imgur.com/McIIFLM" target="_blank">
+  <a href="https://imgur.com/a/KTXy9M2" target="_blank">
     <img src="https://img.shields.io/badge/idrlabs.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
-  <a href="https://imgur.com/McIIFLM" target="_blank">
+  <a href="https://imgur.com/a/0ZdXwcy" target="_blank">
     <img src="https://img.shields.io/badge/humanmetrics.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>	  
   </a>
-  <a href="https://imgur.com/McIIFLM" target="_blank">
+  <a href="https://imgur.com/a/KPB47rJ" target="_blank">
     <img src="https://img.shields.io/badge/16personalities.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
-    <a href="https://imgur.com/McIIFLM" target="_blank">
+    <a href="https://imgur.com/a/PMtHkmv" target="_blank">
     <img src="https://img.shields.io/badge/jupiter34appspot.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
-  <a href="https://imgur.com/McIIFLM" target="_blank">
+  <a href="https://imgur.com/a/x2CfZQc" target="_blank">
     <img src="https://img.shields.io/badge/keys2cognition.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
-  <a href="https://imgur.com/McIIFLM" target="_blank">
+  <a href="https://imgur.com/a/9k1N6de" target="_blank">
     <img src="https://img.shields.io/badge/personalitymax.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
   </a>
