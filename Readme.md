@@ -19,7 +19,7 @@
   <a href="https://imgur.com/McIIFLM" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=dumaganearll@gmail.com&su=Associate%20w/%20me%20through%20this%20Email&tf=cm" target="_blank">
+  <a href="https://drive.google.com/file/d/1VAh4MiZ2Rs7exS_f0Q1TN_y_3KzV7ojR/view?usp=sharing"_blank">
     <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
   </a>
   <a href="https://imgur.com/McIIFLM" target="_blank">
