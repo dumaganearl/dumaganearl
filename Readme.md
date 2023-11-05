@@ -19,7 +19,7 @@
   <a href="https://imgur.com/McIIFLM" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://imgur.com/McIIFLM" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=dumaganearll@gmail.com&su=Associate%20w/%20me%20through%20this%20Email&tf=cm" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
   </a>
   <a href="https://imgur.com/McIIFLM" target="_blank">
@@ -42,9 +42,9 @@
 ```python
 class MoreAboutMe:
     user = 'Earl Angelo'
-    personality_type = 'INFJ'
+    personality_type = 'Perhaps INFJ?'
 
-# MBTI Results: Multiple sources of reference link are shown below.
+# Multiple sources of reference link are shown below.
  ```
 <div align="center">
 <p align="center">
@@ -89,7 +89,7 @@ class MoreAboutMe:
     hobbies = [
         'Isekai Manga/Manhwa',
         'Legends/Myths/Conspiracy Theories',
-        'Medley Musics Genre',
+        'Medley Music Genre',
         'FPS/RPG Gameplay [Once in a Blue Moon]',  
     ]
 
