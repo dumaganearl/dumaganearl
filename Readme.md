@@ -49,7 +49,7 @@ class MoreAboutMe:
 <div align="center">
 <p align="center">
 
-</a>
+
   <a href="https://imgur.com/a/KTXy9M2" target="_blank">
     <img src="https://img.shields.io/badge/idrlabs.com-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
