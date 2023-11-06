@@ -28,10 +28,10 @@
   </a>
 
 </div>
-</br>
 
 ## 
 
+<!--
 <div align="center">
 <details>
 <summary> <h4> More About Me <h4/> </summary>
@@ -75,6 +75,8 @@ class MoreAboutMe:
  ```
 </br>
 
+-->
+
 ```python
 class MoreAboutMe:
     user = 'Earl Angelo'
@@ -100,11 +102,6 @@ class MoreAboutMe:
 
     def getCity(self):
         return self.Davao_City()
-
-
-# Fave Motto
-# "Bawi, Next Life"
-# -M	
  ```
 
 </details>
