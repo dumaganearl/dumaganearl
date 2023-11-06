@@ -42,7 +42,7 @@
 ```python
 class MoreAboutMe:
     user = 'Earl Angelo'
-    personality_type = 'Perhaps INFJ?'
+    personality_type = 'IN--'
 
 # Multiple sources of reference link are shown below.
  ```
