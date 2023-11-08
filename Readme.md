@@ -31,7 +31,6 @@
 
 ## 
 
-<!--
 <div align="center">
 <details>
 <summary> <h4> More About Me <h4/> </summary>
@@ -42,10 +41,10 @@
 ```python
 class MoreAboutMe:
     user = 'Earl Angelo'
-    personality_type = 'IN--'
-
-# Multiple sources of reference link are shown below.
+    personality_type = 'INFJ??'
  ```
+<!-- # Multiple sources of reference link are shown below. -->
+
 <div align="center">
 <p align="center">
   <a href="https://imgur.com/a/KTXy9M2" target="_blank">
@@ -70,12 +69,11 @@ class MoreAboutMe:
 
 </div>
 
+<!--
 ```python
 # Realtime RPm would be 100% much better! :p 
  ```
-</br>
-
--->
+ -->
 
 ```python
 class MoreAboutMe:
