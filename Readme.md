@@ -35,7 +35,6 @@
 <details>
 <summary> <h4> More About Me <h4/> </summary>
 </div>
-</br>
 
 <!--
 ```python
