@@ -37,14 +37,16 @@
 </div>
 </br>
 
-
+<!--
 ```python
 class MoreAboutMe:
     user = 'Earl Angelo'
     personality_type = 'INFJ??'
  ```
+ -->
 <!-- # Multiple sources of reference link are shown below. -->
 
+<!--
 <div align="center">
 <p align="center">
   <a href="https://imgur.com/a/KTXy9M2" target="_blank">
@@ -68,6 +70,7 @@ class MoreAboutMe:
   </a>
 
 </div>
+-->
 
 <!--
 ```python
@@ -77,7 +80,7 @@ class MoreAboutMe:
 
 ```python
 class MoreAboutMe:
-    user = 'Earl Angelo'
+    user = 'Earl Angelo | Ni-Fe'
     current_work = 'IT Technical Support II'
     passion = [
         'Into Finance Books/E-Books',
