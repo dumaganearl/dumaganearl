@@ -98,6 +98,7 @@ class MoreAboutMe:
     def currentlyInto(self):
         self.LearningRiskMgmt()
         self.LearningTradingPsych()
+	self.CognitiveFunctions()
 
     def getCity(self):
         return self.Davao_City()
