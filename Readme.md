@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/> -->
   </a>
   <!-- <a href="https://www.linkedin.com/in/iolardemartini" target="_blank"> -->
-  <a href="https://imgur.com/McIIFLM" target="_blank">
+  <a href="https://www.linkedin.com/in/dumaganearl" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://drive.google.com/file/d/1VAh4MiZ2Rs7exS_f0Q1TN_y_3KzV7ojR/view?usp=sharing"_blank">
