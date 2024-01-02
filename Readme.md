@@ -79,7 +79,7 @@ class MoreAboutMe:
 
 ```python
 class MoreAboutMe:
-    user = 'Earl Angelo | Ni-Fe'
+    user = 'Earl Angelo | Ni-Fe (5w6)'
     current_work = 'IT Technical Support II'
     passion = [
         'Into Finance Books/E-Books',
