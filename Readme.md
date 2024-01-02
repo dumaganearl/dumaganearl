@@ -82,16 +82,14 @@ class MoreAboutMe:
     user = 'Earl Angelo | Ni-Fe [5w6]'
     current_work = 'IT Technical Support II'
     passion = [
-        'Into Finance/Psychology Books/E-Books',
-        'Crypto/Forex Currency Trading [Supplementary Funding]',
-        'Crypto Asset Investment Trading [Long Term Funding]',
-        'Crypto Ai/Bot Trading [Passive Funding]',  
+        'Finance/Psychology Books/E-Books',
+        'Crypto/Forex Currency Trading',
     ]
 
     hobbies = [
         'Isekai Manga/Manhwa',
-        'Legends/Myths/Conspiracy Theories',
-        'Medley Music Genre',
+        'Legends/Myths/Conspiracy Theories/Documentaries',
+        'Music Genre - Medley',
         'FPS/RPG Gameplay [Infrequently]',  
     ]
 
