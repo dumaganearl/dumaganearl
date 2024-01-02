@@ -79,10 +79,10 @@ class MoreAboutMe:
 
 ```python
 class MoreAboutMe:
-    user = 'Earl Angelo | Ni-Fe (5w6)'
+    user = 'Earl Angelo | Ni-Fe [5w6]'
     current_work = 'IT Technical Support II'
     passion = [
-        'Into Finance Books/E-Books',
+        'Into Finance/Psychology Books/E-Books',
         'Crypto/Forex Currency Trading [Supplementary Funding]',
         'Crypto Asset Investment Trading [Long Term Funding]',
         'Crypto Ai/Bot Trading [Passive Funding]',  
@@ -92,7 +92,7 @@ class MoreAboutMe:
         'Isekai Manga/Manhwa',
         'Legends/Myths/Conspiracy Theories',
         'Medley Music Genre',
-        'FPS/RPG Gameplay [Once in a Blue Moon]',  
+        'FPS/RPG Gameplay [Infrequently]',  
     ]
 
     def currentlyInto(self):
