@@ -79,7 +79,7 @@ class MoreAboutMe:
 
 ```python
 class MoreAboutMe:
-    user = 'Earl Angelo | Ni-Fe [5w6]'
+    user = 'Earl Angelo | IXFJ [5w6]'
     current_work = 'IT Technical Support II'
     passion = [
         'Finance/Psychology Books/E-Books',
@@ -89,7 +89,7 @@ class MoreAboutMe:
     hobbies = [
         'Isekai Manga/Manhwa',
         'Legends/Myths/Conspiracy Theories/Documentaries',
-        'Music Genre - Medley',
+        'Music Genre - Classic Medley',
         'FPS/RPG Gameplay [Infrequently]',  
     ]
 
@@ -97,6 +97,7 @@ class MoreAboutMe:
         self.LearningRiskMgmt()
         self.LearningTradingPsych()
 	self.CognitiveFunctions()
+        self.CryptoAirdrops()
 
     def getCity(self):
         return self.Davao_City()
