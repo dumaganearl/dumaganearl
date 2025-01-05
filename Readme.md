@@ -79,7 +79,7 @@ class MoreAboutMe:
 
 ```python
 class MoreAboutMe:
-    user = 'Earl Angelo | IXFJ [5w6]'
+    user = 'Earl Angelo'
     current_work = 'IT Technical Support II'
     passion = [
         'Finance/Psychology Books/E-Books',
@@ -96,7 +96,7 @@ class MoreAboutMe:
     def currentlyInto(self):
         self.LearningRiskMgmt()
         self.LearningTradingPsych()
-	self.CognitiveFunctions()
+	self.CryptoAIMemes()
         self.CryptoAirdrops()
 
     def getCity(self):
@@ -154,8 +154,8 @@ Multimedia Software     ▮▮▯▯▯▯▯▯▯▯  20%
 <div align="center">
 
 ```                                      
-Smart Money Concept               ▮▮▮▮▯▯▯▯▯▯  40%
-Harmonics (In Progress)           ▮▮▮▮▯▯▯▯▯▯  40%
+Price Action                      ▮▮▮▮▮▮▮▮▯▯  80%
+Smart Money Concept               ▮▮▮▮▮▮▮▯▯▯  70%
 Elliot Wave Theory (In Progress)  ▮▮▯▯▯▯▯▯▯▯  20%
 ```
 
