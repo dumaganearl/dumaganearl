@@ -111,8 +111,8 @@ class MoreAboutMe:
 
 ```text                                      
 Network Administration  ▮▮▮▮▮▮▯▯▯▯  60%
-Software Programming    ▮▮▮▯▯▯▯▯▯▯  30%
-Multimedia Software     ▮▮▯▯▯▯▯▯▯▯  20%
+Multimedia Software     ▮▮▮▮▯▯▯▯▯▯  40%
+Software Programming    ▮▮▮▮▯▯▯▯▯▯  40%
 ```
 
 </div>
